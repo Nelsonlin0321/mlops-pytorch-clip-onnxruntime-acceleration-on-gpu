@@ -1,5 +1,5 @@
 
-# Inference PyTorch CLIP Model with ONNX Runtime on CPU
+# Inference PyTorch CLIP Model with ONNX Runtime on GPU
 
 
 ## Introduction
