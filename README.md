@@ -13,6 +13,17 @@ Please follow the tutorial colab to try it out:
 
 ## Conclusion:
 Using ONNX Runtime is 3.51 × Faster than using Pytorch on GPU infernece.
+
 CLIP only takes 9 ms inferencing an images whereas pytorch takes 41 ms in average. 
 <img src="Speed-up.png"></img>
+
+
+## Referene:
+Medium post about accelerating other Hugging Face models:
+
+https://medium.com/microsoftazure/accelerate-your-nlp-pipelines-using-hugging-face-transformers-and-onnx-runtime-2443578f4333
+
+<img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*4GREvqUWnFU9VXuNk2HEFQ.png'></img>
+
+
 
